@@ -1,0 +1,6 @@
+ui_external_languages <- sc_node_not_relation;;
+
+ui_external_languages -> scg_code; scs_code; 
+    theatre_adding;
+    opinion_adding;
+    statue_searching;;

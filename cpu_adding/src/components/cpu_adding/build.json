@@ -1,0 +1,12 @@
+{
+     "sources": [
+        
+        "src/cpu_adding-common.js",
+        "src/cpu_adding-paintPanel.js",
+        "src/cpu_adding-fileWriter.js"
+    ],
+
+    "component": "src/cpu_adding-component.js",
+
+    "target": "static/components/js/cpu_adding/cpu_adding.js"
+}
